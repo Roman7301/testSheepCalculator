@@ -1,4 +1,4 @@
-name: TestSheep Calculator Java CI test run with Maven
+name: TestSheepCalculator Java CI test run with Maven
 
 on:
   push:
